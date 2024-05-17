@@ -1,2 +1,2 @@
 # Qt_Library_Seat_Reservation
-A library seat reservation platform created by Qt.
+使用Qt制作的图书馆座位预约系统。
