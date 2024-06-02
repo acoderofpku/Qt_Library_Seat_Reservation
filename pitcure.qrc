@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/background">
+        <file>yangguangdatingzuoweifenbutu.jpg</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>picture/beidatushuguan.png</file>
+        <file>picture/zhuce3.png</file>
+        <file>picture/tushuguantitle.png</file>
+        <file>picture/zhengmiantushuguan.jpg</file>
+        <file>picture/boyatushu.jpg</file>
+        <file>picture/liangtushu.jpg</file>
+        <file>board.png</file>
+        <file>board_red_library.jpg</file>
+        <file>red_door.png</file>
+    </qresource>
+    <qresource prefix="/new/seats">
+        <file>f1_plan.jpg</file>
+        <file>f2_plan.jpg</file>
+        <file>f3_plan.jpg</file>
+        <file>f4_plan.jpg</file>
+    </qresource>
+    <qresource prefix="/new/seat">
+        <file>part1.jpg</file>
+        <file>part2.jpg</file>
+        <file>part3.jpg</file>
+        <file>part4.jpg</file>
+    </qresource>
+</RCC>
